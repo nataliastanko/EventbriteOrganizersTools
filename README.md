@@ -1,2 +1,1 @@
-# EventbriteTicketDelAutoconfirm
- Eventbrite event's ticket deletion autoconfirm
+Autoconfirm Evenbrite event's single order deletion
