@@ -8,8 +8,8 @@
 // @copyright    2018, nataliastanko (https://openuserjs.org/users/nataliastanko)
 // @match        https://*eventbrite.*order-delete*
 // @grant        none
-// @downloadURL  https://openuserjs.org/install/nataliastanko/Eventbrite_autoconfirm_order_deletion.user.js
-// @updateURL    https://openuserjs.org/meta/nataliastanko/Eventbrite_autoconfirm_order_deletion.meta.js
+// @downloadURL  https://github.com/nataliastanko/EventbriteOrganizersTools/raw/master/order_deletion_autoconfirm.js
+// @updateURL    https://github.com/nataliastanko/EventbriteOrganizersTools/raw/master/order_deletion_autoconfirm.js
 // ==/UserScript==
     
 (function () {
