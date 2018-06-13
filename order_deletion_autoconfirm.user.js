@@ -5,7 +5,7 @@
 // @namespace    https://github.com/nataliastanko/
 // @contactURL   https://nataliastanko.com
 // @author       nataliastanko
-// @version      0.5
+// @version      0.6
 // @license      MIT
 // @copyright    2018, nataliastanko (https://github.com/nataliastanko/)
 // @match        https://www.eventbrite.*/order-delete*
