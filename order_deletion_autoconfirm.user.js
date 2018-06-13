@@ -5,7 +5,7 @@
 // @namespace    https://github.com/nataliastanko/
 // @contactURL   https://nataliastanko.com
 // @author       nataliastanko
-// @version      0.6
+// @version      0.7
 // @license      MIT
 // @copyright    2018, nataliastanko (https://github.com/nataliastanko/)
 // @match        https://www.eventbrite.*/order-delete*
@@ -16,7 +16,7 @@
 // @homepage     https://github.com/nataliastanko/EventbriteOrganizersTools/
 // @supportURL   https://github.com/nataliastanko/EventbriteOrganizersTools/issues
 // ==/UserScript==
-    
+
 (function () {
   'use strict';
   document.refundForm.submit();
