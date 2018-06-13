@@ -8,7 +8,8 @@
 // @version      0.6
 // @license      MIT
 // @copyright    2018, nataliastanko (https://github.com/nataliastanko/)
-// @match        https://*eventbrite.*order-delete*
+// @match        https://www.eventbrite.*/reports*
+// @include      https://www.eventbrite.*/reports*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/nataliastanko/EventbriteOrganizersTools/master/orders_autodeletion.user.js
 // @downloadURL  https://raw.githubusercontent.com/nataliastanko/EventbriteOrganizersTools/master/orders_autodeletion.user.js
