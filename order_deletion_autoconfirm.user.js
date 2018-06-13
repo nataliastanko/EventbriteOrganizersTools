@@ -10,8 +10,8 @@
 // @copyright    2018, nataliastanko (https://github.com/nataliastanko/)
 // @match        https://*eventbrite.*order-delete*
 // @grant        none
-// @downloadURL  https://rawgit.com/nataliastanko/EventbriteOrganizersTools/master/order_deletion_autoconfirm.js
-// @updateURL    https://rawgit.com/nataliastanko/EventbriteOrganizersTools/master/order_deletion_autoconfirm.js
+// @updateURL    https://raw.githubusercontent.com/nataliastanko/EventbriteOrganizersTools/master/order_deletion_autoconfirm.user.js
+// @downloadURL  https://raw.githubusercontent.com/nataliastanko/EventbriteOrganizersTools/master/order_deletion_autoconfirm.user.js
 // @homepage     https://github.com/nataliastanko/EventbriteOrganizersTools/
 // @supportURL   https://github.com/nataliastanko/EventbriteOrganizersTools/issues
 // ==/UserScript==
